@@ -1,0 +1,205 @@
+{
+  "game_dir": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\American Truck Simulator",
+  "mod_dir": "C:\\Users\\wackyhacky\\Documents\\American Truck Simulator\\mod",
+  "truck": {
+    "torque": {
+      "on": false,
+      "value": 1.0
+    },
+    "engine_brake": {
+      "on": false,
+      "value": 1.0
+    },
+    "flywheel_inertia": {
+      "on": false,
+      "value": 1.0
+    },
+    "differential_ratio": {
+      "on": false,
+      "value": 1.0
+    },
+    "shift_time": {
+      "on": false,
+      "value": 0.4
+    },
+    "kerb_weight": {
+      "on": false,
+      "value": 1.0
+    },
+    "max_steering_angle": {
+      "on": false,
+      "value": 35.0
+    },
+    "suspension_damping_factor": {
+      "on": false,
+      "value": 1.0
+    },
+    "suspension_damping_factor#rear": {
+      "on": false,
+      "value": 0.5
+    },
+    "sway_bar_stiffness": {
+      "on": false,
+      "value": 1.0
+    },
+    "cog_height": {
+      "on": false,
+      "value": 1.1
+    },
+    "air_resistance": {
+      "on": false,
+      "value": 3.0
+    }
+  },
+  "car": {
+    "torque": {
+      "on": true,
+      "value": 2.5
+    },
+    "engine_brake": {
+      "on": false,
+      "value": 1.7
+    },
+    "flywheel_inertia": {
+      "on": false,
+      "value": 1.0
+    },
+    "differential_ratio": {
+      "on": false,
+      "value": 1.0
+    },
+    "shift_time": {
+      "on": false,
+      "value": 0.4
+    },
+    "kerb_weight": {
+      "on": true,
+      "value": 2.2
+    },
+    "max_steering_angle": {
+      "on": false,
+      "value": 1.0
+    },
+    "suspension_damping_factor": {
+      "on": true,
+      "value": 1.5
+    },
+    "suspension_damping_factor#rear": {
+      "on": true,
+      "value": 1.5
+    },
+    "sway_bar_stiffness": {
+      "on": true,
+      "value": 2.2
+    },
+    "cog_height": {
+      "on": true,
+      "value": 0.55
+    },
+    "air_resistance": {
+      "on": false,
+      "value": 1.0
+    }
+  },
+  "shared": {
+    "air_resistance": 3.0,
+    "brake_balance": 1.1,
+    "brake_torque_factor": 1.0,
+    "braking_curve_peak_rel": 1.5,
+    "bristle_stiffness_lateral_factor": 1.0,
+    "bristle_stiffness_longitudinal_factor": 1.0,
+    "cabin_suspension_damping_factor": 1.0,
+    "cabin_suspension_travel": 0.05,
+    "cabin_sway_bar_factor": 1.0,
+    "damping_scaling_front_factor": 1.0,
+    "damping_scaling_rear_factor": 0.5,
+    "damping_scaling_trailer_factor": 0.5,
+    "slip_lateral_factor": 1.0,
+    "slip_longitudinal_factor": 1.0,
+    "steering_angle_coef": 2.0,
+    "steering_sensitivity_multiplier_0kmh": 1.25,
+    "steering_sensitivity_multiplier_100kmh": 0.5,
+    "steering_speed_coef": 4.0,
+    "sway_bar_stiffness_factor": 1.0,
+    "thrust_characteristic_viscosity_factor": 1.0,
+    "wheel_viscosity_factor": 1.0,
+    "brake_characteristic_rpm": 250.0,
+    "brake_cooling_rate": 0.01,
+    "brake_friction_warming_rate": 4.0,
+    "bristle_damping_lateral_factor": 1.0,
+    "bristle_damping_longitudinal_factor": 1.0,
+    "cabin_cog_height_offset": 0.5,
+    "cabin_mass": 650.0,
+    "cabin_max_pitch_angle_front": 2.25,
+    "cabin_max_pitch_angle_rear": 2.25,
+    "cabin_max_roll_angle": 2.25,
+    "clutch_connected_viscosity_factor": 10.0,
+    "clutch_viscosity_factor": 1.0,
+    "fifth_wheel_pitch": 20.0,
+    "fifth_wheel_roll": 3.0,
+    "inertia_scaling_const": 1.0,
+    "manual_clutch_connected_viscosity_factor": 10.0,
+    "manual_clutch_viscosity_factor": 0.5,
+    "max_brake_temperature": 200.0,
+    "spreader_joint_pitch": 5.0,
+    "spreader_joint_roll": 3.0,
+    "steering_ratio_coef": 0.95,
+    "steering_sensitivity_multiplier_maximum": 10.0,
+    "steering_sensitivity_multiplier_minimum": 0.25,
+    "torque_converter_locked_viscosity_factor": 10.0,
+    "torque_converter_viscosity_factor": 0.2,
+    "trailer_joint_pitch": 20.0,
+    "trailer_joint_roll": 3.0,
+    "transmission_rel_flywheel_inertia": 0.5,
+    "transmission_viscosity_factor": 1.0,
+    "transmission_viscosity_retarder_factor": 1.0
+  },
+  "models": {
+    "truck": [
+      "freightliner.cascadia2019",
+      "freightliner.cascadia2024",
+      "intnational.9900i",
+      "intnational.lonestar",
+      "intnational.lt",
+      "kenworth.t680",
+      "kenworth.t680_2022",
+      "kenworth.w900",
+      "mack.anthem",
+      "mack.pinnacle",
+      "peterbilt.389",
+      "peterbilt.579",
+      "volvo.vnl",
+      "volvo.vnl2018",
+      "volvo.vnl2025",
+      "volvo.vnr_e",
+      "westernstar.49x",
+      "westernstar.5700xe",
+      "westernstar.57x"
+    ],
+    "car": [
+      "ford.bronco_24",
+      "ford.f150_23",
+      "ford.mustang_67",
+      "ford.victoria_06"
+    ]
+  },
+  "wheel": {
+    "truck": {},
+    "car": {}
+  },
+  "rotation": {
+    "truck": 1800.0,
+    "car": 900.0
+  },
+  "autoswitch": true,
+  "moza": true,
+  "info": {
+    "name": "Truck & Car Physics Tuner",
+    "author": "WackyHacky",
+    "version": "1.2",
+    "description": "Allows you to change Physics Per trucks/cars and also allows you to have separate wheel degree rotation on each truck/car\nAlso fixed the cars from flipping!",
+    "icon": "",
+    "summary": true,
+    "bump": true
+  }
+}
